@@ -107,7 +107,7 @@
             "name": "🦊MX┃动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.mxdmp.com/type/{cateId}/{catePg}/",
                 "分类": "国产动漫$guoman#日本动漫$riman#欧美动漫$oman#动漫电影$dmfilm",
@@ -119,7 +119,7 @@
             "name": "🐭风车动漫┃动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "线路数组": "tab_con_playlist&&</a>",
                 "分类url": "http://www.dmla9.com/show/{cateId}--------{catePg}---{year}.html",
@@ -130,7 +130,7 @@
             "name": "🎃海兔┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电视剧$2#电影$1#综艺$3#动漫$4#伦理片$21"
@@ -140,7 +140,7 @@
             "name": "臭🥚┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://cddys1.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38"
@@ -150,7 +150,7 @@
             "name": "🎃电影先生┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
@@ -162,7 +162,7 @@
             "name": "飞行影院😎",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.huanhai0411.cn/sh/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$feixingyingyuanduanju#运动$yundong#飞行影院电影解说$feixingyingyuandianyingjieshuo#日本剧$ribenju#韩剧$hanju#泰剧$taiju#海外剧$haiwaiju"
@@ -172,7 +172,7 @@
             "name": "蝶众┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.dzvod.cc/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
@@ -182,7 +182,7 @@
             "name": "🎞剧迷┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://jumi.tv/show/{cateId}/by/{by}/page/{catePg}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -193,7 +193,7 @@
             "name": "🎃永乐┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.59v.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -204,7 +204,7 @@
             "key": "乐哥星空",
             "name": "星空✨影视",
             "type": 3,
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -223,7 +223,7 @@
             "name": "🎃可视┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.ketv.cc/s/{cateId}--{by}---{letter}---{catePg}---{year}.html",
                 "分类": "电影$movie#连续剧$series#网络短剧$skit#综艺$variety#动漫$anime#纪录片$documentary#体育$sports"
@@ -233,7 +233,7 @@
             "name": "🎃白嫖TV┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html",
                 "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
@@ -243,7 +243,7 @@
             "name": "🎃567┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -253,7 +253,7 @@
             "name": "🎃高清剧场┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}---{wd}---{catePg}---{year}.html",
                 "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
@@ -265,7 +265,7 @@
             "name": "🎃77┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.77ys.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}-{catePg}-{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -279,7 +279,7 @@
             "name": "🎃白羊┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.byvv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}-{catePg}-{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -293,7 +293,7 @@
             "name": "🎃68┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.68yy.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}-{catePg}-{year}.html",
                 "分类": "电影$2#电视剧$是1#综艺$3#动漫$4",
@@ -312,7 +312,7 @@
             "name": "😄哈哈┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -349,7 +349,7 @@
             "name": "🎃chok┃影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.chok8.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#直播$zhibo"
@@ -369,7 +369,7 @@
             "name": "🎃神马┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类url": "https://www.smyy.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}-{catePg}-{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
@@ -379,7 +379,7 @@
             "name": "🀇万佳┃影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "简介": "video-info-item video-info-content vod_content\">&&</div>",
                 "二次截取": "module-items\">&&module-footer+module-item\">",
@@ -396,7 +396,7 @@
             "name": "🎃白嫖者┃影视🪜",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "filterable": 1,
             "changeable": 1,
             "ext": {
@@ -420,7 +420,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "请求头": "手机",
                 "主页url": "https://www.cdprop.com/",
@@ -440,7 +440,7 @@
             "name": "💎HD┃影视💎",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "数组": "myui-vodlist__box&&</a>",
                 "图片": "data-original=\"&&\"",
@@ -460,7 +460,7 @@
             "name": "布卡┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -488,7 +488,7 @@
             "name": "🇰Kimivod┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -519,7 +519,7 @@
             "name": "🇰🇷韩剧┃大佬",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -545,7 +545,7 @@
             "name": "🚙途趣┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -569,7 +569,7 @@
             "name": "✨97✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -600,7 +600,7 @@
             "name": "✨云飞影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -629,7 +629,7 @@
             "changeable": 1,
             "playerType": "2",
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -653,7 +653,7 @@
             "key": "4k-av",
             "name": "✨4k-av🪜✨",
             "type": 3,
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
@@ -680,7 +680,7 @@
             "name": "🎃生日┃影视维护中",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "分类": "电影$1#电视剧$21#综艺$3#动漫$4",
                 "分类url": "https://www.aishengri.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"
@@ -690,7 +690,7 @@
             "key": "👙指尖的黑客",
             "name": "👙乐哥出品--精品",
             "type": 3,
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -713,7 +713,7 @@
             "name": "✨在线之家✨[乐哥甄选]✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "主页url": "https://www.zxzjhd.com",
                 "数组": "<a class=\"stui-vodlist__thumb lazyload\"&&></a>",
@@ -739,7 +739,7 @@
             "changeable": 0,
             "quickSearch": 1,
             "playerType": "1",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.55kan.com/",
@@ -762,7 +762,7 @@
             "key": "✨chenluo✨",
             "name": "✨尘落影视✨用影视✨✨",
             "type": 3,
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -785,7 +785,7 @@
             "key": "主题🐖网",
             "name": "主题🐖网",
             "type": 3,
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "作者": "小张/240913/",
@@ -829,7 +829,7 @@
             "name": "呦呦音乐网[xbpq]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./jar/xyqxbpq.jar",
             "ext": {
                 "站名": "呦呦音乐网",
                 "主页url": "http://www.djuu.com",
